@@ -1,0 +1,6 @@
+[submodule "apps/qtcloud-org"]
+	path = apps/qtcloud-org
+	url = https://github.com/quanttide/qtcloud-org.git
+[submodule "examples/default"]
+	path = examples/default
+	url = https://github.com/quanttide/quanttide-laboratory-of-organization-management.git
