@@ -20,3 +20,6 @@
 [submodule "apps/qtorg"]
 	path = apps/qtorg
 	url = https://github.com/quanttide/qtorg.git
+[submodule "data/brochure"]
+	path = data/brochure
+	url = https://github.com/quanttide/quanttide-brochure-of-organization-management.git
