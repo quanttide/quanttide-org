@@ -22,6 +22,7 @@
 | `docs/` | 领域文档 |
 | `examples/default` | 组织管理实验室 (git submodule → quanttide-laboratory-of-organization-management) |
 | `apps/qtcloud-org` | QtCloud 组织管理应用 (git submodule) |
+| `apps/qtorg` | 量潮组织中心，组织管理档案公开展示 (git submodule) |
 | `packages/toolkit` | 共享库/工具集 |
 
 ## 许可

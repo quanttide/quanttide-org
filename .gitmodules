@@ -17,3 +17,6 @@
 	path = data/profile
 	url = https://github.com/quanttide/quanttide-profile-of-organization-management.git
 	branch = main
+[submodule "apps/qtorg"]
+	path = apps/qtorg
+	url = https://github.com/quanttide/qtorg.git
