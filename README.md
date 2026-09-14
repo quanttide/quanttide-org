@@ -19,7 +19,12 @@
 
 | 路径 | 说明 |
 |------|------|
-| `docs/` | 领域文档 |
+| `docs/bylaw` | 组织管理章程 (git submodule → quanttide-bylaw-of-organization-management) |
+| `docs/handbook` | 组织管理手册 (git submodule → quanttide-handbook-of-organization-management) |
+| `docs/specification` | 组织管理标准 (git submodule → quanttide-specification-of-organization-management) |
+| `docs/tutorial` | 组织管理教程 (git submodule → quanttide-tutorial-of-organization-management) |
+| `docs/essay` | 组织管理札记 (git submodule → quanttide-essay-of-organization-management) |
+| `docs/gallery` | 组织管理案例集 (git submodule → quanttide-gallery-of-organization-management) |
 | `examples/default` | 组织管理实验室 (git submodule → quanttide-laboratory-of-organization-management) |
 | `apps/qtcloud-org` | QtCloud 组织管理应用 (git submodule) |
 | `apps/qtorg` | 量潮组织中心，组织管理档案公开展示 (git submodule) |
