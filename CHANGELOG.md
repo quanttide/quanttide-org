@@ -4,6 +4,8 @@
 
 ### 变更
 
+- `apps/qtcloud-org`：lite 部署链路接通（`deploy-lite.yml` + `manifests/terraform/lite.tf`/`cdn.tf`；OSS 桶 `qtcloud-org-lite`、CDN/DNS `lite.org.cloud.quanttide.com` 已建，首发待 `lite/*` tag，版本号由用户定）
+- `apps/qtcloud-org` studio 新增架构编辑器（部门与岗位增改删 + 变更留痕）
 - `apps/qtcloud-org` 新增 `src/lite`（量潮组织 Lite，Web 职务查表，载荷同步本批职务），拟替代 qtorg 站点
 - 实验室子模块改名：`examples/default` → `examples/quanttide-org-lab`（仓 quanttide-laboratory-of-organization-management → quanttide-org-lab）
 
