@@ -4,6 +4,7 @@
 
 ### 变更
 
+- `apps/qtcloud-org` 新增 `src/lite`（量潮组织 Lite，Web 职务查表，载荷同步本批职务），拟替代 qtorg 站点
 - 实验室子模块改名：`examples/default` → `examples/quanttide-org-lab`（仓 quanttide-laboratory-of-organization-management → quanttide-org-lab）
 
 
